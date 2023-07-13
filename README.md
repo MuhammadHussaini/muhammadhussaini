@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome, visitor! 👋
 
-<!--
-**MuhammadHussaini/muhammadhussaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+✋ I am an 18 year old science enthusiast currently studying a gap-year for medical/engineering colleges. 
 
-Here are some ideas to get you started:
+## What can I find here?
+💻 I made several fascinating Desmos projects, and you can access them through my website:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 https://muhammadhussaini.github.io
+
+## My Social Media
+|Social Media|Username|Link|
+|--|--|--|
+|*Discord*|🤖 muhammadhussaini |[Go](https://discord.gg/BWUEvDm2KF)|
+|*Instagram*|📷 muhammadhussaini_|[Go](https://instagram.com/muhammadhussaini_)|
+|*YouTube*|📹 muhammadhussaini786 |[Go](https://youtube.com/@muhammadhussaini786)|.
