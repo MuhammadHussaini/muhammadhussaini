@@ -1,7 +1,7 @@
 # Welcome, visitor! 👋
 
 ## Who am I?
-✋ I am an 18 year old science enthusiast currently studying a gap-year for medical/engineering colleges. 
+✋ I am an 19 year old science enthusiast currently studying a gap-year for medical/engineering colleges. 
 
 ## What can I find here?
 💻 I made several fascinating Desmos projects, and you can access them through my website:
