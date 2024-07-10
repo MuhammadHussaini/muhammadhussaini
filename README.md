@@ -4,9 +4,7 @@
 ✋ I am an 19 year old science enthusiast currently studying a gap-year for medical/engineering colleges. 
 
 ## What can I find here?
-💻 I made several fascinating Desmos projects, and you can access them through my website:
-
-🌐 https://muhammadhussaini.github.io
+💻 Some random projects I made
 
 ## My Social Media
 |Social Media|Username|Link|
