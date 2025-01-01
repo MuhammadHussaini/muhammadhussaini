@@ -1,7 +1,7 @@
 # Welcome, visitor! 👋
 
 ## Who am I?
-✋ I am an 19 year old science enthusiast currently studying a gap-year for medical/engineering colleges. 
+✋ I am a 20 year old science enthusiast currently studying a gap-year for medical/engineering colleges. 
 
 ## What can I find here?
 💻 Some random projects I made
