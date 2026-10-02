@@ -9,4 +9,4 @@
 ## My Social Media
 |Social Media|Username|Link|
 |--|--|--|
-|*Instagram*|📷 muhammadhussaini_|[Go](https://instagram.com/muhammadhussaini_)|
+|*LinkedIn*|📷 muhammadhussaini|[Go](https://linkedin.com/muhammadhussaini)|
